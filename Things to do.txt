@@ -1,0 +1,30 @@
+Things to do:
+
+-Colour scheme
+Yellow for happy & creativity
+#F0C941 - deep
+#E3F041 - light
+#F0DE41 - mid - use as main colour
+#F0B441 - orange
+#9AF041 - green
+#EFDE4F - mid/deep
+#41D4F0 - blue
+#F0418C - pink
+
+-Wireframe
+--Probably easier on a piece of paper tbh
+
+-Images in to folder
+--I should take these so there is more control over them being consistent
+
+-Pages
+--Main page
+---This needs a header
+---Vote for something (the next recipe?) on the main page? 
+---Also some footer info (socials, address, etc)
+
+--Recipe of the week
+---Butternut squash with photo
+
+--Basics (to contain info about pans etc)
+---Get some pan & ingredient photos
